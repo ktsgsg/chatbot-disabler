@@ -1,0 +1,28 @@
+{
+   "manifest_version": 3,
+   "name": "Meijo Portal Dhatbot Disabler",
+   "version": "1.0.0",
+   "description": "Meijo Portal Chatbot Disablerを使用して、名城大学のポータルサイトに表示されるチャットボットを非表示にしましょう。",
+   "icons": {
+      "128": "ico_128.png"
+   },
+   "content_scripts": [
+      {
+         "matches": [
+            "https://portal.meijo-u.ac.jp/*"
+         ],
+         "css": [
+            "style.css"
+         ],
+         "js": [
+            "content.js"
+         ]
+      }
+   ],
+   "permissions": [
+      "tabs"
+   ],
+   "host_permissions": [
+      "https://portal.meijo-u.ac.jp/*"
+   ]
+}
