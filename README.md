@@ -1,7 +1,8 @@
 
 # Meijo Portal Chatbot Disabler
 
-このChrome拡張機能は、名城大学ポータルサイト（https://portal.meijo-u.ac.jp/）に表示されるチャットボットを非表示にします。
+
+このChrome拡張機能は、名城大学ポータルサイト（[https://portal.meijo-u.ac.jp/](https://portal.meijo-u.ac.jp/)）に表示されるチャットボットを非表示にします。
 
 ## インストール方法
 
@@ -13,7 +14,8 @@
 
 ## 使い方
 
-拡張機能を有効にした状態で名城大学ポータルサイト（https://portal.meijo-u.ac.jp/）にアクセスすると、チャットボットが自動的に非表示になります。
+
+拡張機能を有効にした状態で名城大学ポータルサイト（[https://portal.meijo-u.ac.jp/](https://portal.meijo-u.ac.jp/)）にアクセスすると、チャットボットが自動的に非表示になります。
 
 ## ファイル構成
 
